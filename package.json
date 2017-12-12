@@ -1,14 +1,14 @@
 {
-  "name": "simplebar",
+  "name": "@ohze_quyet/simplebar",
   "title": "SimpleBar.js",
   "description": "Scrollbars, simpler.",
   "files": [
     "dist"
   ],
-  "author": "Adrien Grsmto from a fork by Jonathan Nicol",
+  "author": "QuyetDX from a fork by Adrien Grsmto",
   "repository": {
     "type": "git",
-    "url": "http://github.com/grsmto/simplebar.git"
+    "url": "https://github.com/OhzeQuyet/simplebar.git"
   },
   "main": "dist/simplebar.js",
   "module": "src/simplebar.js",
@@ -23,7 +23,7 @@
   },
   "license": {
     "type": "MIT",
-    "url": "http://zenorocha.mit-license.org/"
+    "url": "http://zenorocha.mit-license.org"
   },
   "engines": {
     "node": ">=0.11.0"
